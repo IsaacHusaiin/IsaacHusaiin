@@ -17,7 +17,7 @@
 
 ## 📫 How to reach me
 - Email: [abdukuyumie@gmail.com](mailto:abdukuyumie@gmail.com)
-- LinkedIn: [linkedin.com/in/isaachusaiin](https://linkedin.com/in/isaachusaiin)
+- LinkedIn: [linkedin.com/in/isaachusaiin](linkedin.com/in/isaac-yushaiyin-315a351b7)
 
 ## 😄 Pronouns
 - He/Him
