@@ -16,8 +16,9 @@
 - Software tools for civil engineers and architects
 
 ## 📫 How to reach me
-- Email: [abdukuyumie@gmail.com](mailto:abdukuyumie@gmail.com)
-- LinkedIn: [linkedin.com/in/isaachusaiin](linkedin.com/in/isaac-yushaiyin-315a351b7)
+- General Email: [isaachusaiin@gmail.com](mailto:isaachusaiin@gmail.com)
+- LinkedIn Email: [abdukuyumie@gmail.com](mailto:abdukuyumie@gmail.com)
+- LinkedIn Profile: [linkedin.com/in/isaac-yushaiyin-315a351b7](https://www.linkedin.com/in/isaac-yushaiyin-315a351b7)
 
 ## 😄 Pronouns
 - He/Him
@@ -25,9 +26,5 @@
 ## ⚡ Fun facts
 - I speak three languages fluently.
 - I once participated in a bridge-building competition where my design won second place!
-- I love snowboarding and outdoor activities. 
+- I love snowboarding and outdoor activities!
 - I enjoy cooking dishes from different cultures, experimenting with flavors and techniques.
-<!---
-IsaacHusaiin/IsaacHusaiin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
