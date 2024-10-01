@@ -19,6 +19,7 @@
 - General Email: [isaachusaiin@gmail.com](mailto:isaachusaiin@gmail.com)
 - LinkedIn Email: [abdukuyumie@gmail.com](mailto:abdukuyumie@gmail.com)
 - LinkedIn Profile: [linkedin.com/in/isaac-yushaiyin-315a351b7](https://www.linkedin.com/in/isaac-yushaiyin-315a351b7)
+- Seattle University Email :[yabudukeyoumu@seattleu.edu](mailto:yabudukeyoumu@seattleu.edu)
 
 ## 😄 Pronouns
 - He/Him
