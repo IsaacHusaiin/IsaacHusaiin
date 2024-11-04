@@ -21,8 +21,6 @@
 - LinkedIn Profile: [linkedin.com/in/isaac-yushaiyin-315a351b7](https://www.linkedin.com/in/isaac-yushaiyin-315a351b7)
 - Seattle University Email :[yabudukeyoumu@seattleu.edu](mailto:yabudukeyoumu@seattleu.edu)
 
-## 😄 Pronouns
-- He/Him
 
 ## ⚡ Fun facts
 - I speak three languages fluently.
